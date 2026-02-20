@@ -1,1 +1,28 @@
+title: Prof. Bipin Singh Koranga
+description: Professor of Physics | Nuclear Physics | Neutrino Physics | Cosmology
+author: Bipin Singh Koranga
 
+email: bskoranga@kmc.du.ac.in
+location: Bageshwar, Uttarakhand, India
+
+institution: Kirori Mal College
+university: University of Delhi
+
+theme: minima
+
+social_links:
+  researchgate: https://www.researchgate.net/profile/Bipin-Singh-Koranga
+  google_scholar: https://scholar.google.co.in/citations?user=Zw-OC8kAAAAJ
+  linkedin: https://www.linkedin.com/in/dr-bipin-singh-koranga-22496157/
+
+navigation:
+  - title: About
+    url: /#about
+  - title: Research
+    url: /#research
+  - title: Teaching
+    url: /#teaching
+  - title: Publications
+    url: /#publications
+  - title: Contact
+    url: /#contact
