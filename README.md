@@ -69,35 +69,48 @@ Research focused on neutrino oscillations, quantum entanglement, and quantum inf
 **Research Area:**  
 Neutrino Physics / High Energy Physics / Quantum Information Theory
 
+
 ### 2. Ansh Kumariya (4th Year)
+
 **Project / Dissertation Title:**  
 (To be added)
+
 **Work Done Under Prof. Bipin Singh Koranga:**  
 (To be added)
+
 **Research Area:**  
 (To be added)
+
 
 ### 3. Tia Pandit (4th Year)
 **Project / Dissertation Title:**  
 (To be added)
+
 **Work Done Under Prof. Bipin Singh Koranga:**  
 (To be added)
+
 **Research Area:**  
 (To be added)
+
 
 ### 4. Asta Yadav (4th Year)
 **Project / Dissertation Title:**  
 (To be added)
+
 **Work Done Under Prof. Bipin Singh Koranga:**  
 (To be added)
+
 **Research Area:**  
 (To be added)
+
 
 ### 5. Hrydia Harish Nambiar (4th Year)
 **Project / Dissertation Title:**  
 (To be added)
+
 **Work Done Under Prof. Bipin Singh Koranga:**  
 (To be added)
+
 **Research Area:**  
 (To be added)
 
