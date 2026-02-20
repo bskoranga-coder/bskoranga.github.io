@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Prof. Bipin Singh Koranga</title>
+<style>
+body{font-family:Arial;margin:0;background:#f4f6fb}
+header{background:#0a1a3a;color:white;text-align:center;padding:40px}
+nav{background:#1e2f5a;text-align:center;padding:10px}
+nav a{color:white;margin:10px;text-decoration:none;font-weight:bold}
+section{max-width:900px;margin:auto;padding:40px}
+footer{background:#0a1a3a;color:white;text-align:center;padding:20px}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Prof. Bipin Singh Koranga</h1>
+<p>Professor – Department of Physics</p>
+<p>Kirori Mal College, University of Delhi</p>
+</header>
+
+<nav>
+<a href="#about">About</a>
+<a href="#research">Research</a>
+<a href="#teaching">Teaching</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+<h2>About</h2>
+<p>Theoretical physicist working in Nuclear Physics, Neutrino Physics and Cosmology.</p>
+</section>
+
+<section id="research">
+<h2>Research Areas</h2>
+<ul>
+<li>Neutrino Physics</li>
+<li>Quantum Field Theory</li>
+<li>Cosmology</li>
+<li>High Energy Physics</li>
+</ul>
+</section>
+
+<section id="teaching">
+<h2>Teaching</h2>
+<p>Classical Dynamics, Quantum Mechanics, Mathematical Physics, Nuclear Physics.</p>
+</section>
+
+<section id="contact">
+<h2>Contact</h2>
+<p>Email: bskoranga@kmc.du.ac.in</p>
+</section>
+
+<footer>
+<p>© 2026 Prof. Bipin Singh Koranga</p>
+</footer>
+
+</body>
+</html>
