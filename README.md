@@ -30,3 +30,86 @@ CGPA: 8.8 / 10
 - *An Introduction of Fluid Dynamics*  
 - *Elementary Modern Physics*  
 - *Lagrangian and Hamiltonian Dynamics*
+# Research Students – Prof. Bipin Singh Koranga
+
+The following students are currently working under the supervision of  
+**Prof. Bipin Singh Koranga** (Department of Physics).
+
+This section is being prepared for inclusion in the academic GitHub website.
+Each student's dissertation/project details can be updated below.
+
+---
+
+## Research Students
+
+### 1. Baktiar Wasir Farooq (3rd Year)
+
+**Project / Dissertation Title:**  
+1) Quantum Information Theoritical Apporaches in Neutrino Oscillations
+2) NeutrinoOsc3Flavor:CP Phase Dependence in Three-Flavor Neutrino Oscillations
+3) Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum-Gravity Interactions
+4) Two- Flavor Neutrino Oscillations in Matter and Quantum Entanglement
+
+
+**Work Done Under Prof. Bipin Singh Koranga:**  
+
+
+**Research Area:**  
+Neutrino Physics / High Energy Physics / Quantum Information Theory
+
+**Notes:**  
+(Any additional information can be written here)
+
+---
+
+### 2. Ansh Kumariya (4th Year)
+
+**Project / Dissertation Title:**  
+(To be added)
+
+**Work Done Under Prof. Bipin Singh Koranga:**  
+(To be added)
+
+**Research Area:**  
+(To be added)
+
+---
+
+### 3. Tia Pandit (4th Year)
+
+**Project / Dissertation Title:**  
+(To be added)
+
+**Work Done Under Prof. Bipin Singh Koranga:**  
+(To be added)
+
+**Research Area:**  
+(To be added)
+
+---
+
+### 4. Asta Yadav (4th Year)
+
+**Project / Dissertation Title:**  
+(To be added)
+
+**Work Done Under Prof. Bipin Singh Koranga:**  
+(To be added)
+
+**Research Area:**  
+(To be added)
+
+---
+
+### 5. Hrydia Harish Nambiar (4th Year)
+
+**Project / Dissertation Title:**  
+(To be added)
+
+**Work Done Under Prof. Bipin Singh Koranga:**  
+(To be added)
+
+**Research Area:**  
+(To be added)
+
+---
