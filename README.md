@@ -58,7 +58,7 @@ Prof. Bipin Singh Koranga has published **50+ research papers** in international
 The following students are currently working under the supervision of  
 **Prof. Bipin Singh Koranga** (Department of Physics).
 
-# 1. Baktiar Wasir Farooq (3rd Year)
+#### 1. Baktiar Wasir Farooq (3rd Year)
 
 **Project / Dissertation Work:**
 1. Quantum Information Theoretical Approaches in Neutrino Oscillations  (Dissertation in collaboration with Prof. Massimo.)
@@ -72,7 +72,7 @@ Research focused on neutrino oscillations, quantum entanglement, and quantum inf
 **Research Area:**  
 Neutrino Physics / High Energy Physics / Quantum Information Theory
 
-# 2. Ansh Kumariya (4th Year)
+#### 2. Ansh Kumariya (4th Year)
 
 **Project / Dissertation Title:**  
 (To be added)
@@ -83,7 +83,7 @@ Neutrino Physics / High Energy Physics / Quantum Information Theory
 **Research Area:**  
 (To be added)
 
-# 3. Tia Pandit (4th Year)
+#### 3. Tia Pandit (4th Year)
 
 **Project / Dissertation Title:**  
 (To be added)
@@ -94,7 +94,7 @@ Neutrino Physics / High Energy Physics / Quantum Information Theory
 **Research Area:**  
 (To be added)
 
-# 4. Asta Yadav (4th Year)
+#### 4. Asta Yadav (4th Year)
 
 **Project / Dissertation Title:**  
 (To be added)
@@ -105,7 +105,7 @@ Neutrino Physics / High Energy Physics / Quantum Information Theory
 **Research Area:**  
 (To be added)
 
-# 5. Hrydia Harish Nambiar (4th Year)
+#### 5. Hrydia Harish Nambiar (4th Year)
 
 **Project / Dissertation Title:**  
 (To be added)
