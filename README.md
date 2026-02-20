@@ -18,7 +18,15 @@ Thesis Title: *Studies in Neutrino Masses and Mixings*
 - Dark Matter Studies  
 - Relativity and Astroparticle Physics
 - Quantum Information Theory
-  
+
+## Publications
+Prof. Bipin Singh Koranga has published **50+ research papers** in international journals.
+
+### Research Profiles
+- 🔬 ResearchGate: https://www.researchgate.net/profile/Bipin-Singh-Koranga  
+- 📚 Google Scholar: https://scholar.google.co.in/citations?user=Zw-OC8kAAAAJ
+
+
 ## Works Done (Professional Experience)
 - Professor, Department of Physics, Kirori Mal College, University of Delhi (Since Nov 2022)  
 - Associate Professor, Department of Physics, Kirori Mal College, University of Delhi (2019 – 2022)  
@@ -45,18 +53,12 @@ Thesis Title: *Studies in Neutrino Masses and Mixings*
 
 ---
 
-# Research Students – Prof. Bipin Singh Koranga
+# Research Students supervised by Prof. Bipin Singh Koranga
 
 The following students are currently working under the supervision of  
 **Prof. Bipin Singh Koranga** (Department of Physics).
 
-This section is prepared for the academic GitHub website.
-
----
-
-### Research Students
-
-##1. Baktiar Wasir Farooq (3rd Year)
+# 1. Baktiar Wasir Farooq (3rd Year)
 
 **Project / Dissertation Work:**
 1. Quantum Information Theoretical Approaches in Neutrino Oscillations  (Dissertation in collaboration with Prof. Massimo.)
@@ -70,9 +72,7 @@ Research focused on neutrino oscillations, quantum entanglement, and quantum inf
 **Research Area:**  
 Neutrino Physics / High Energy Physics / Quantum Information Theory
 
----
-
-## 2. Ansh Kumariya (4th Year)
+# 2. Ansh Kumariya (4th Year)
 
 **Project / Dissertation Title:**  
 (To be added)
@@ -83,9 +83,7 @@ Neutrino Physics / High Energy Physics / Quantum Information Theory
 **Research Area:**  
 (To be added)
 
----
-
-## 3. Tia Pandit (4th Year)
+# 3. Tia Pandit (4th Year)
 
 **Project / Dissertation Title:**  
 (To be added)
@@ -96,9 +94,7 @@ Neutrino Physics / High Energy Physics / Quantum Information Theory
 **Research Area:**  
 (To be added)
 
----
-
-## 4. Asta Yadav (4th Year)
+# 4. Asta Yadav (4th Year)
 
 **Project / Dissertation Title:**  
 (To be added)
@@ -109,9 +105,7 @@ Neutrino Physics / High Energy Physics / Quantum Information Theory
 **Research Area:**  
 (To be added)
 
----
-
-##5. Hrydia Harish Nambiar (4th Year)
+# 5. Hrydia Harish Nambiar (4th Year)
 
 **Project / Dissertation Title:**  
 (To be added)
