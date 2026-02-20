@@ -4,7 +4,7 @@ Indian Institute of Technology (IIT) Bombay
 Completed: 2007  
 Supervisor: S. Uma Sankar  
 CGPA: 8.8 / 10  
-
+Thesis Title: *Studies in Neutrino Masses and Mixings*
 ---
 
 ## Works Done (Professional Experience)
@@ -18,9 +18,9 @@ CGPA: 8.8 / 10
 ---
 
 ## Foreign Visits
-- Visited International Centre for Theoretical Physics (ICTP), Trieste, Italy – Workshop Towards Neutrino Technologies (July 2009)  
-- Visited ICTP, Trieste, Italy – Workshop on Recent Developments in Astronuclear and Astroparticle Physics (November 2012)  
-- Attended Summer School on Particle Physics, ICTP Trieste, Italy (June 2004)  
+- International Centre for Theoretical Physics (ICTP), Trieste, Italy – Workshop Towards Neutrino Technologies (July 2009)  
+- ICTP, Trieste, Italy – Workshop on Recent Developments in Astronuclear and Astroparticle Physics (November 2012)  
+- Summer School on Particle Physics, ICTP Trieste, Italy (June 2004)  
 
 ---
 
@@ -29,14 +29,16 @@ CGPA: 8.8 / 10
 - *Special Functions and Its Application*  
 - *An Introduction of Fluid Dynamics*  
 - *Elementary Modern Physics*  
-- *Lagrangian and Hamiltonian Dynamics*
+- *Lagrangian and Hamiltonian Dynamics*  
+
+---
+
 # Research Students – Prof. Bipin Singh Koranga
 
 The following students are currently working under the supervision of  
 **Prof. Bipin Singh Koranga** (Department of Physics).
 
-This section is being prepared for inclusion in the academic GitHub website.
-Each student's dissertation/project details can be updated below.
+This section is prepared for the academic GitHub website.
 
 ---
 
@@ -44,21 +46,17 @@ Each student's dissertation/project details can be updated below.
 
 ### 1. Baktiar Wasir Farooq (3rd Year)
 
-**Project / Dissertation Title:**  
-1) Quantum Information Theoritical Apporaches in Neutrino Oscillations
-2) NeutrinoOsc3Flavor:CP Phase Dependence in Three-Flavor Neutrino Oscillations
-3) Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum-Gravity Interactions
-4) Two- Flavor Neutrino Oscillations in Matter and Quantum Entanglement
-
+**Project / Dissertation Work:**
+1. Quantum Information Theoretical Approaches in Neutrino Oscillations  
+2. NeutrinoOsc3Flavor: CP Phase Dependence in Three-Flavor Neutrino Oscillations  
+3. Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum Gravity Interactions  
+4. Two-Flavor Neutrino Oscillations in Matter and Quantum Entanglement  
 
 **Work Done Under Prof. Bipin Singh Koranga:**  
-
+Research focused on neutrino oscillations, quantum entanglement, and quantum information theoretical approaches in particle physics.
 
 **Research Area:**  
 Neutrino Physics / High Energy Physics / Quantum Information Theory
-
-**Notes:**  
-(Any additional information can be written here)
 
 ---
 
