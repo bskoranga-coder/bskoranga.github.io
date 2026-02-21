@@ -1,7 +1,6 @@
 <div style="display:flex; justify-content:space-between; align-items:flex-start;">
   
   <div>
-    <h1>Prof. Bipin Singh Koranga</h1>
     <h3>Neutrino Physicist (Professor of Physics)</h3>
     <p>Kirori Mal College, University of Delhi</p>
   </div>
