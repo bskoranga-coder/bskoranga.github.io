@@ -38,7 +38,19 @@ Prof. Bipin Singh Koranga has published **50+ research papers** in international
 - [💼 LinkedIn](https://www.linkedin.com/in/prof-dr-bipin-singh-koranga-22496157/)
 - [Inspire-HEP](https://inspirehep.net/authors/1039975?ui-citation-summary=true)
 
+### Awards and Distinctions
 
+- **Junior Merit Scholarship (Ekikrit Chhatravritti)**, 1989–1993  
+  (awarded during 9th–12th standard)
+
+- **Graduation Merit Scholarship**, 1995–1998  
+  (during B.Sc. and M.Sc.)
+
+- **GATE Qualification**, 2000 and 2001  
+  (All India graduate aptitude examination organized by the IITs)
+
+- **GEST and NET Qualification**, 1999–2001
+  
 ## Works Done (Professional Experience)
 - Professor, Department of Physics, Kirori Mal College, University of Delhi (Since Nov 2022)  
 - Associate Professor, Department of Physics, Kirori Mal College, University of Delhi (2019 – 2022)  
