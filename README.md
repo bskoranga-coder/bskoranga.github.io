@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="assets/img/bipin_sir_profile_(1).jpeg" width="180" style="border-radius:25%;">
+  <img src="assets/img/bipin_sir_profile_(1).jpeg" width="180" style="border-radius:50%;">
 </p>
 
 ## Neutrino Physicist (Professor of Physics)
@@ -62,8 +62,7 @@ The following students are currently working under the supervision of
 2. NeutrinoOsc3Flavor: CP Phase Dependence in Three-Flavor Neutrino Oscillations  
 3. Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum Gravity Interactions  
 4. Two-Flavor Neutrino Oscillations in Matter and Quantum Entanglement  
-**Work Done Under Prof. Bipin Singh Koranga:**  
-Research focused on neutrino oscillations, quantum entanglement, and quantum information theoretical approaches in particle physics.
+
 **Research Area:**  
 Neutrino Physics / High Energy Physics / Quantum Information Theory
 
@@ -73,8 +72,7 @@ Neutrino Physics / High Energy Physics / Quantum Information Theory
 **Project / Dissertation Title:**  
 (To be added)
 
-**Work Done Under Prof. Bipin Singh Koranga:**  
-(To be added)
+**Description:**
 
 **Research Area:**  
 (To be added)
@@ -84,8 +82,7 @@ Neutrino Physics / High Energy Physics / Quantum Information Theory
 **Project / Dissertation Title:**  
 (To be added)
 
-**Work Done Under Prof. Bipin Singh Koranga:**  
-(To be added)
+**Description:**
 
 **Research Area:**  
 (To be added)
@@ -95,8 +92,7 @@ Neutrino Physics / High Energy Physics / Quantum Information Theory
 **Project / Dissertation Title:**  
 (To be added)
 
-**Work Done Under Prof. Bipin Singh Koranga:**  
-(To be added)
+**Description:**
 
 **Research Area:**  
 (To be added)
@@ -106,8 +102,7 @@ Neutrino Physics / High Energy Physics / Quantum Information Theory
 **Project / Dissertation Title:**  
 (To be added)
 
-**Work Done Under Prof. Bipin Singh Koranga:**  
-(To be added)
+**Description:**
 
 **Research Area:**  
 (To be added)
