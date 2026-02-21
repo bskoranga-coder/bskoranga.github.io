@@ -15,7 +15,7 @@
 
 I welcome motivated students who are interested in research and seeking internships in **High Energy Physics** or **Neutrino Physics**. Students with strong curiosity and commitment to theoretical or phenomenological work are encouraged to get in touch.
 
-📧 **Email:** [bskoranaga@kmc.du.ac.in](bskoranga@kmc.du.ac.in)
+📧 **Email:** [bskoranga@kmc.du.ac.in](bskoranga@kmc.du.ac.in)
 
 ## Education
 Ph.D. in Physics 
