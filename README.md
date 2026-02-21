@@ -34,7 +34,7 @@ Thesis Title: *Studies in Neutrino Masses and Mixings*
 Prof. Bipin Singh Koranga has published **50+ research papers** in international journals.
 
 ### Research Profiles
-- [🔬 ResearchGate](https://scholar.google.co.in/citations?user=Zw-OC8kAAAAJ&hl=hi)  
+- [🔬 ResearchGate](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiq4omuxeuSAxVazTgGHR2bK7sQFnoECBoQAQ&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FBipin-Singh-Koranga&usg=AOvVaw18LkEwZ-xpGF-Xe14NoaQU&opi=89978449)  
 - [📚 Google Scholar:](https://scholar.google.co.in/citations?user=Zw-OC8kAAAAJ)
 - [💼 LinkedIn](https://www.linkedin.com/in/prof-dr-bipin-singh-koranga-22496157/)
 - [Inspire-HEP](https://inspirehep.net/authors/1039975?ui-citation-summary=true)
