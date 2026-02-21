@@ -1,7 +1,16 @@
-<p align="right">
-  <img src="assets/img/bipin_sir_profile_(1).jpeg" width="180" style="border-radius:50%;">
-</p>
+<div style="display:flex; justify-content:space-between; align-items:flex-start;">
+  
+  <div>
+    <h1>Prof. Bipin Singh Koranga</h1>
+    <h3>Neutrino Physicist (Professor of Physics)</h3>
+    <p>Kirori Mal College, University of Delhi</p>
+  </div>
 
+  <img src="assets/img/bipin_sir_profile_(1).jpeg"
+       width="180"
+       style="border-radius:25%;">
+       
+</div>
 ## Neutrino Physicist (Professor of Physics)
 ### Kirori Mal College, University of Delhi
 
