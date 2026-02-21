@@ -2,6 +2,9 @@
   <img src="/assets/img/headshot_circle.png" width="180" style="border-radius:50%;">
 </p>
 
+## Neutrino Physicist (Professor of Physics)
+### Kirori Mal College, University of Delhi
+
 ## Education
 **Ph.D. in Physics**  
 Indian Institute of Technology (IIT) Bombay  
