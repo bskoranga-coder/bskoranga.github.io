@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="/assets/img/headshot_circle.png" width="180" style="border-radius:50%;">
+</p>
+
 ## Education
 **Ph.D. in Physics**  
 Indian Institute of Technology (IIT) Bombay  
