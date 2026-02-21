@@ -11,8 +11,12 @@
        style="border-radius:25%;">
        
 </div>
-## Neutrino Physicist (Professor of Physics)
-### Kirori Mal College, University of Delhi
+
+### Opportunities
+
+I welcome motivated students who are interested in research and seeking internships in **High Energy Physics** or **Neutrino Physics**. Students with strong curiosity and commitment to theoretical or phenomenological work are encouraged to get in touch.
+
+📧 **Email:** bskoranaga@gmail.com
 
 ## Education
 Ph.D. in Physics 
@@ -30,8 +34,10 @@ Thesis Title: *Studies in Neutrino Masses and Mixings*
 Prof. Bipin Singh Koranga has published **50+ research papers** in international journals.
 
 ### Research Profiles
-- 🔬 ResearchGate: https://www.researchgate.net/profile/Bipin-Singh-Koranga  
-- 📚 Google Scholar: https://scholar.google.co.in/citations?user=Zw-OC8kAAAAJ
+- [🔬 ResearchGate](https://scholar.google.co.in/citations?user=Zw-OC8kAAAAJ&hl=hi)  
+- [📚 Google Scholar:](https://scholar.google.co.in/citations?user=Zw-OC8kAAAAJ)
+- [💼 LinkedIn](https://www.linkedin.com/in/prof-dr-bipin-singh-koranga-22496157/)
+- [Inspire-HEP](https://inspirehep.net/authors/1039975?ui-citation-summary=true)
 
 
 ## Works Done (Professional Experience)
@@ -68,9 +74,9 @@ The following students are currently working under the supervision of
 ### 1. Baktiar Wasir Farooq (3rd Year)
 **Project / Dissertation Work:**
 1. Quantum Information Theoretical Approaches in Neutrino Oscillations  (Dissertation in collaboration with Prof. Massimo.)
-2. NeutrinoOsc3Flavor: CP Phase Dependence in Three-Flavor Neutrino Oscillations  
-3. Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum Gravity Interactions  
-4. Two-Flavor Neutrino Oscillations in Matter and Quantum Entanglement  
+2. [NeutrinoOsc3Flavor: CP Phase Dependence in Three-Flavor Neutrino Oscillations](https://inspirehep.net/literature/3115044) 
+3. [Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum Gravity Interactions]()
+4. [Two-Flavor Neutrino Oscillations in Matter and Quantum Entanglement](https://doi.org/10.1142/S021974992540009X)  
 
 **Research Area:**  
 Neutrino Physics / High Energy Physics / Quantum Information Theory
