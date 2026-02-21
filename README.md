@@ -6,25 +6,16 @@
 ### Kirori Mal College, University of Delhi
 
 ## Education
-**Ph.D. in Physics**  
+Ph.D. in Physics 
 Indian Institute of Technology (IIT) Bombay  
 Completed: 2007  
 Supervisor: S. Uma Sankar  
-CGPA: 8.8 / 10  
+CGPA: 8.8 / 10 
 Thesis Title: *Studies in Neutrino Masses and Mixings*
 ---
 
 ## Research Interests
-- Neutrino Physics  
-- Nuclear Physics  
-- Cosmology  
-- CP Violation in Neutrino Oscillations  
-- Quantum Field Theory  
-- High Energy Particle Physics  
-- Mathematical Physics  
-- Dark Matter Studies  
-- Relativity and Astroparticle Physics
-- Quantum Information Theory
+- Neutrino Physics, Nuclear Physics, Cosmology, CP Violation in Neutrino Oscillations, Quantum Field Theory, High Energy Particle Physics, Mathematical Physics, Dark Matter Studies, Relativity and Astroparticle Physics, Quantum Information Theory
 
 ## Publications
 Prof. Bipin Singh Koranga has published **50+ research papers** in international journals.
