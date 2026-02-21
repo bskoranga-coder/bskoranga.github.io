@@ -7,7 +7,7 @@
 
   <img src="assets/img/bipin_sir_profile_(1).jpeg"
        width="180"
-       style="border-radius:50%;">
+       style="border-radius:10%;">
        
 </div>
 
