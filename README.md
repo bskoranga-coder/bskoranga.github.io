@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="/assets/img/Bipin_sir_profile.jpeg" width="180" style="border-radius:50%;">
+  <img src="/assets/img/Bipin_sir_profile.jpeg" width="180" style="border-radius:25%;">
 </p>
 
 ## Neutrino Physicist (Professor of Physics)
