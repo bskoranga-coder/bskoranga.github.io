@@ -5,7 +5,7 @@
     <p>Kirori Mal College, University of Delhi</p>
   </div>
 
-  <img src="assets/img/bipin_sir_profile_(1).jpeg"
+  <img src="assets/img/Bipin_pfp.jpeg"
        width="180"
        style="border-radius:10%;">
        
@@ -70,68 +70,45 @@ Prof. Bipin Singh Koranga has published **50+ research papers** in international
 ---
 
 ## Books Written
-- *An Introduction of Tensor Analysis*  
-- *Special Functions and Its Application*  
-- *An Introduction of Fluid Dynamics*  
-- *Elementary Modern Physics*  
-- *Lagrangian and Hamiltonian Dynamics*  
+- *[An Introduction of Tensor Analysis](https://www.flipkart.com/introduction-tensor-analysis/p/itm65543d7850873)*  
+- *[Special Functions and Its Application](https://www.amazon.in/Special-Functions-Their-Application-Koranga/dp/8770042764/ref=sr_1_3?crid=9IXF0EF321ZH&dib=eyJ2IjoiMSJ9.b0yz3zqQ5R8rZuq5bQQ6oMIeYkZAclV39BaTPpIOPpzGjHj071QN20LucGBJIEps.vz-AMrEkcJSnn-Z8UHYdRfC_lHXCKhhgykxgTXm-xzI&dib_tag=se&keywords=bipin+singh+koranga&qid=1771795454&sprefix=Bipin+SIngh%2Caps%2C342&sr=8-3)*  
+- *[An Introduction of Fluid Dynamics](https://www.amazon.com/Introduction-Fluid-Dynamics-Ratindra-Gautam/dp/6205492520)*    
+- *[Lagrangian and Hamiltonian Dynamics](https://www.amazon.com/LAGRANGIAN-HAMILTONIAN-DYNAMICS-Bipin-Koranga/dp/6206844331)*
+- *[Modern Physics: Basic Concepts and Applications](https://www.amazon.in/Modern-Physics-Applications-Undergraduate-Postgraduate/dp/8195705456/ref=sr_1_1?crid=9IXF0EF321ZH&dib=eyJ2IjoiMSJ9.b0yz3zqQ5R8rZuq5bQQ6oMIeYkZAclV39BaTPpIOPpzGjHj071QN20LucGBJIEps.vz-AMrEkcJSnn-Z8UHYdRfC_lHXCKhhgykxgTXm-xzI&dib_tag=se&keywords=bipin+singh+koranga&qid=1771795454&sprefix=Bipin+SIngh%2Caps%2C342&sr=8-1)* 
 
 ---
 
-# Research Students supervised by Prof. Bipin Singh Koranga
+# Current Research Students supervised by Prof. Bipin Singh Koranga
 
 The following students are currently working under the supervision of  
 **Prof. Bipin Singh Koranga** (Department of Physics).
 
-### 1. Baktiar Wasir Farooq (3rd Year)
+### 1. Baktiar Wasir Farooq (3rd Year) 
 **Project / Dissertation Work:**
 1. Quantum Information Theoretical Approaches in Neutrino Oscillations  (Dissertation in collaboration with Prof. Massimo.)
 2. [NeutrinoOsc3Flavor: CP Phase Dependence in Three-Flavor Neutrino Oscillations](https://inspirehep.net/literature/3115044) 
 3. [Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum Gravity Interactions]()
 4. [Two-Flavor Neutrino Oscillations in Matter and Quantum Entanglement](https://doi.org/10.1142/S021974992540009X)  
 
-**Research Area:**  
-Neutrino Physics / High Energy Physics / Quantum Information Theory
-
 
 ### 2. Ansh Kumariya (4th Year)
 
 **Project / Dissertation Title:**  
-(To be added)
-
-**Description:**
-
-**Research Area:**  
-(To be added)
+Day-Night Effects in Solar Neutrino Oscillations: A Comprehensive Review. (Dissertation)
 
 
 ### 3. Tia Pandit (4th Year)
 **Project / Dissertation Title:**  
-(To be added)
-
-**Description:**
-
-**Research Area:**  
-(To be added)
+1. Neutrino Oscillation Experiments: A Comprehensive Review of Theory, Observations and Future Directions. (Dissertation)
+2. [Earth-Density Effects in LBL Experiments: A Comprehensive Review of Theory, Observations, and Future Directions](https://arxiv.org/abs/2601.21256)
 
 
 ### 4. Asta Yadav (4th Year)
 **Project / Dissertation Title:**  
-(To be added)
-
-**Description:**
-
-**Research Area:**  
-(To be added)
+Introduction to Quantum Cryptography and it's Practical Applications. (Dissertation)
 
 
 ### 5. Hrydia Harish Nambiar (4th Year)
 **Project / Dissertation Title:**  
-(To be added)
-
-**Description:**
-
-**Research Area:**  
-(To be added)
-
+Entanglement Aspects of Neutrino Oscillations: A Review. (Dissertation)
 ---
