@@ -89,7 +89,7 @@ Prof. Bipin Singh Koranga has published **60+ research papers** in international
 # Current Research Students supervised by Prof. Bipin Singh Koranga
 
 The following students are currently working under the supervision of  
-**Prof. Bipin Singh Koranga** (Department of Physics).
+**Prof. Bipin Singh Koranga** .
 
 ### 1. Baktiar Wasir Farooq (3rd Year) 
 **Project / Dissertation Work:**
@@ -118,13 +118,16 @@ Introduction to Quantum Cryptography and it's Practical Applications. (Dissertat
 
 ### 5. Hrydia Harish Nambiar (4th Year)
 **Project / Dissertation Title:**  
-Entanglement Aspects of Neutrino Oscillations: A Review. (Dissertation)
+1. Entanglement Aspects of Neutrino Oscillations: A Review. (Dissertation)
+
 [Tripartite Entanglement as a Probe of Neutrino Mass Hierarchy, CP Violation, and Non-Standard Interactions](https://arxiv.org/abs/2605.10972)
 
 ### 6. Aritro Chatterjee (3rd Year) (Incomming Masters student at KU Leuven)
 **Research Paper:**
-[Quantum Fisher Information as a Probe of Sterile Neutrino New Physics:Geometric Advantage of KM3NeT over IceCube](https://arxiv.org/abs/2604.01256)
+
+1. [Quantum Fisher Information as a Probe of Sterile Neutrino New Physics:Geometric Advantage of KM3NeT over IceCube](https://arxiv.org/abs/2604.01256)
 
 ### 7. Poulastya Kar (4th Year)
 **Research Paper:**
-[Sterile Neutrinos as a Dynamical Cosmological Fluid: Implications for the Expansion History and Matter-Radiation Equality](https://arxiv.org/abs/2604.00062)
+
+1. [Sterile Neutrinos as a Dynamical Cosmological Fluid: Implications for the Expansion History and Matter-Radiation Equality](https://arxiv.org/abs/2604.00062)
