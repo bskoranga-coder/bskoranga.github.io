@@ -119,8 +119,7 @@ Introduction to Quantum Cryptography and it's Practical Applications. (Dissertat
 ### 5. Hrydia Harish Nambiar (4th Year)
 **Project / Dissertation Title:**  
 1. Entanglement Aspects of Neutrino Oscillations: A Review. (Dissertation)
-
-[Tripartite Entanglement as a Probe of Neutrino Mass Hierarchy, CP Violation, and Non-Standard Interactions](https://arxiv.org/abs/2605.10972)
+2. [Tripartite Entanglement as a Probe of Neutrino Mass Hierarchy, CP Violation, and Non-Standard Interactions](https://arxiv.org/abs/2605.10972)
 
 ### 6. Aritro Chatterjee (3rd Year) (Incomming Masters student at KU Leuven)
 **Research Paper:**
