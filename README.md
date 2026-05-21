@@ -34,10 +34,12 @@ Thesis Title: *Studies in Neutrino Masses and Mixings*
 Prof. Bipin Singh Koranga has published **60+ research papers** in international journals.
 
 ## Selected Publications
+- [Earth-density effects in long baseline neutrino experiments](https://journals.aps.org/prd/accepted/10.1103/8r1c-knd2)
 - [Deviation from bimaximality due to Planck scale effects](https://doi.org/10.1016/j.physletb.2008.02.070)
 - [Possible CPT violation from Planck scale effects](http://fizika.hfd.hr/fizika_b/bv09/b18p219.pdf)
 - [Modified entanglement patterns in two-flavor neutrinos from quantum-gravity interactions](https://doi.org/10.1016/j.nuclphysb.2026.117373)
 - [Two Flavour Neutrino Oscillation in Matter and Quantum Entanglement](https://doi.org/10.1142/S021974992540009X)
+  
 
 ### Research Profiles
 - [🔬 ResearchGate](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiq4omuxeuSAxVazTgGHR2bK7sQFnoECBoQAQ&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FBipin-Singh-Koranga&usg=AOvVaw18LkEwZ-xpGF-Xe14NoaQU&opi=89978449)  
@@ -91,11 +93,11 @@ The following students are currently working under the supervision of
 
 ### 1. Baktiar Wasir Farooq (3rd Year) 
 **Project / Dissertation Work:**
-1. Quantum Information Theoretical Approaches in Neutrino Oscillations  (Dissertation in collaboration with Prof. Massimo.)
+1. Quantum Information Theoretical Approaches in Neutrino Oscillations  (Dissertation in collaboration with [Prof. Massimo Blasone](https://scholar.google.com/citations?user=BtgHuNIAAAAJ&hl=da))
 2. [NeutrinoOsc3Flavor: CP Phase Dependence in Three-Flavor Neutrino Oscillations](https://inspirehep.net/literature/3115044) 
-3. [Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum Gravity Interactions]()
-4. [Two-Flavor Neutrino Oscillations in Matter and Quantum Entanglement](https://doi.org/10.1142/S021974992540009X)  
-
+3. [Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum Gravity Interactions](https://www.sciencedirect.com/science/article/pii/S0550321326000817?via%3Dihub) (Published at Nuclear Physics B)
+4. [Two-Flavor Neutrino Oscillations in Matter and Quantum Entanglement](https://doi.org/10.1142/S021974992540009X)  (Published at International Journal of Quantum Information)
+5. [Quantum Fisher Information as a Probe of Sterile Neutrino New Physics:Geometric Advantage of KM3NeT over IceCube](https://arxiv.org/abs/2604.01256)
 
 ### 2. Ansh Kumariya (4th Year)
 
@@ -106,7 +108,7 @@ Day-Night Effects in Solar Neutrino Oscillations: A Comprehensive Review. (Disse
 ### 3. Tia Pandit (4th Year)
 **Project / Dissertation Title:**  
 1. Neutrino Oscillation Experiments: A Comprehensive Review of Theory, Observations and Future Directions. (Dissertation)
-2. [Earth-Density Effects in LBL Experiments: A Comprehensive Review of Theory, Observations, and Future Directions](https://arxiv.org/abs/2601.21256)
+2. [Earth-density effects in long baseline neutrino experiments](https://journals.aps.org/prd/accepted/10.1103/8r1c-knd2) (Accepted at Physical Review D)
 
 
 ### 4. Asta Yadav (4th Year)
@@ -117,4 +119,12 @@ Introduction to Quantum Cryptography and it's Practical Applications. (Dissertat
 ### 5. Hrydia Harish Nambiar (4th Year)
 **Project / Dissertation Title:**  
 Entanglement Aspects of Neutrino Oscillations: A Review. (Dissertation)
+[Tripartite Entanglement as a Probe of Neutrino Mass Hierarchy, CP Violation, and Non-Standard Interactions](https://arxiv.org/abs/2605.10972)
 
+### 6. Aritro Chatterjee (3rd Year) (Incomming Masters student at KU Leuven)
+**Research Paper:**
+[Quantum Fisher Information as a Probe of Sterile Neutrino New Physics:Geometric Advantage of KM3NeT over IceCube](https://arxiv.org/abs/2604.01256)
+
+### 7. Poulastya Kar (4th Year)
+**Research Paper:**
+[Sterile Neutrinos as a Dynamical Cosmological Fluid: Implications for the Expansion History and Matter-Radiation Equality](https://arxiv.org/abs/2604.00062)
