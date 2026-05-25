@@ -515,10 +515,8 @@
       <h1>Bipin Singh<br>Koranga</h1>
       <div class="institution">Kirori Mal College, University of Delhi</div>
     </div>
-    <div class="header-photo">
-      <div class="photo-placeholder">Photo<br>assets/img/<br>Bipin_pfp.jpeg</div>
-      <!-- Replace above div with: <img src="assets/img/Bipin_pfp.jpeg" alt="Prof. Bipin Singh Koranga"> -->
-    </div>
+    <img src="assets/img/Bipin_pfp.jpeg"
+     alt="Prof. Bipin Singh Koranga">
   </header>
 
   <nav>
