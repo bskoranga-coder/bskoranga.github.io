@@ -770,7 +770,7 @@
 
     <div class="student-card">
       <div class="student-header">
-        <div class="student-name">Abhishek</div>
+        <div class="student-name">Abhishek Sharma</div>
         <span class="student-badge">1st Year M.Sc. · IIT Bhubaneswar</span>
       </div>
       <ul class="student-works">
