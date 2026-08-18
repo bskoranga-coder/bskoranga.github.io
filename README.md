@@ -685,7 +685,7 @@
     <div class="student-card">
   <div class="student-header">
     <div class="student-name">Baktiar Wasir Farooq</div>
-    <span class="student-badge">3rd Year · Kirori Mal College</span>
+    <span class="student-badge">4th Year (Graduated) · Kirori Mal College</span>
     <span class="student-badge scholarship-badge">UNISA Scholarship Recipient (Sole International Selection)</span>
     <span class="student-badge incoming-badge">Accepted for M.Sc. in Physics · Università degli Studi di Salerno</span>
   </div>
@@ -701,7 +701,7 @@
     <div class="student-card">
       <div class="student-header">
         <div class="student-name">Ansh Kumariya</div>
-        <span class="student-badge">4th Year · Kirori Mal College</span>
+        <span class="student-badge">4th Year (Graduated) · Kirori Mal College</span>
       </div>
       <ul class="student-works">
         <li>Day-Night Effects in Solar Neutrino Oscillations: A Comprehensive Review <span class="work-type-badge">Dissertation</span></li>
@@ -711,18 +711,18 @@
     <div class="student-card">
   <div class="student-header">
     <div class="student-name">Tia Pandit</div>
-    <span class="student-badge">4th Year · Kirori Mal College · Incoming Master's Student · LMU, Germany </span>
+    <span class="student-badge">4th Year (Graduated) · Kirori Mal College · Incoming Master's Student · Ludwig Maximilian University of Munich, Germany </span>
   </div>
   <ul class="student-works">
     <li>Neutrino Oscillation Experiments: A Comprehensive Review of Theory, Observations and Future Directions <span class="work-type-badge">Dissertation</span></li>
-    <li><a href="https://aps.org" target="_blank">Earth-density effects in long baseline neutrino experiments</a> — <em>Physical Review D</em> (Published)</li>
+    <li><a href="https://journals.aps.org/prd/abstract/10.1103/8r1c-knd2" target="_blank">Earth-density effects in long baseline neutrino experiments</a> — <em>Physical Review D</em> (Published)</li>
   </ul>
 </div>
 
     <div class="student-card">
       <div class="student-header">
         <div class="student-name">Asta Yadav</div>
-        <span class="student-badge">4th Year · Kirori Mal College</span>
+        <span class="student-badge">4th Year (Graduated) · Kirori Mal College</span>
       </div>
       <ul class="student-works">
         <li>Introduction to Quantum Cryptography and its Practical Applications <span class="work-type-badge">Dissertation</span></li>
@@ -732,7 +732,7 @@
     <div class="student-card">
       <div class="student-header">
         <div class="student-name">Hrydia Harish Nambiar</div>
-        <span class="student-badge">4th Year · Kirori Mal College</span>
+        <span class="student-badge">4th Year (Graduated) · Kirori Mal College</span>
       </div>
       <ul class="student-works">
         <li>Entanglement Aspects of Neutrino Oscillations: A Review <span class="work-type-badge">Dissertation</span></li>
@@ -743,7 +743,7 @@
     <div class="student-card">
       <div class="student-header">
         <div class="student-name">Aritro Chatterjee</div>
-        <span class="student-badge">3rd Year · Kirori Mal College · Incoming M.Sc. KU Leuven</span>
+        <span class="student-badge">3rd Year (Graduated) · Kirori Mal College · Incoming M.Sc. KU Leuven</span>
       </div>
       <ul class="student-works">
         <li><a href="https://arxiv.org/abs/2604.01256" target="_blank">Quantum Fisher Information as a Probe of Sterile Neutrino New Physics: Geometric Advantage of KM3NeT over IceCube</a></li>
