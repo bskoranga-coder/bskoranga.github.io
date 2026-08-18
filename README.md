@@ -685,7 +685,7 @@
     <div class="student-card">
   <div class="student-header">
     <div class="student-name">Baktiar Wasir Farooq</div>
-    <span class="student-badge">4th Year (Graduated) · Kirori Mal College</span>
+    <span class="student-badge">3rd Year (Graduated) · Kirori Mal College</span>
     <span class="student-badge scholarship-badge">UNISA Scholarship Recipient (Sole International Selection)</span>
     <span class="student-badge incoming-badge">Accepted for M.Sc. in Physics · Università degli Studi di Salerno</span>
   </div>
@@ -753,7 +753,7 @@
     <div class="student-card">
       <div class="student-header">
         <div class="student-name">Poulastya Kar</div>
-        <span class="student-badge">4th Year · Kirori Mal College</span>
+        <span class="student-badge">3rd Year (Graduated)· Kirori Mal College</span>
       </div>
       <ul class="student-works">
         <li><a href="https://arxiv.org/abs/2604.00062" target="_blank">Sterile Neutrinos as a Dynamical Cosmological Fluid: Implications for the Expansion History and Matter-Radiation Equality</a></li>
