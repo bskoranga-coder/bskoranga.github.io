@@ -711,8 +711,7 @@
     <div class="student-card">
   <div class="student-header">
     <div class="student-name">Tia Pandit</div>
-    <span class="student-badge">4th Year · Kirori Mal College</span>
-    <span class="student-badge incoming-badge">Incoming Master's Student · LMU, Germany</span>
+    <span class="student-badge">4th Year · Kirori Mal College · Incoming Master's Student · LMU, Germany </span>
   </div>
   <ul class="student-works">
     <li>Neutrino Oscillation Experiments: A Comprehensive Review of Theory, Observations and Future Directions <span class="work-type-badge">Dissertation</span></li>
@@ -758,16 +757,6 @@
       </div>
       <ul class="student-works">
         <li><a href="https://arxiv.org/abs/2604.00062" target="_blank">Sterile Neutrinos as a Dynamical Cosmological Fluid: Implications for the Expansion History and Matter-Radiation Equality</a></li>
-      </ul>
-    </div>
-
-    <div class="student-card">
-      <div class="student-header">
-        <div class="student-name">Mansi Lal</div>
-        <span class="student-badge">1st Year Undergrad · Hindu College</span>
-      </div>
-      <ul class="student-works">
-        <li>Extension of CPT Symmetry Models in the case of Neutrino Oscillations</li>
       </ul>
     </div>
 
