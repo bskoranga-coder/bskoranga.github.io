@@ -683,18 +683,20 @@
     <p class="students-intro">The following students are currently working under the supervision of Prof. Bipin Singh Koranga.</p>
 
     <div class="student-card">
-      <div class="student-header">
-        <div class="student-name">Baktiar Wasir Farooq</div>
-        <span class="student-badge">3rd Year · Kirori Mal College</span>
-      </div>
-      <ul class="student-works">
-        <li>Quantum Information Theoretical Approaches in Neutrino Oscillations <span class="work-type-badge">Dissertation</span></li>
-        <li><a href="https://inspirehep.net/literature/3115044" target="_blank">NeutrinoOsc3Flavor: CP Phase Dependence in Three-Flavor Neutrino Oscillations</a></li>
-        <li><a href="https://www.sciencedirect.com/science/article/pii/S0550321326000817" target="_blank">Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum Gravity Interactions</a> — <em>Nuclear Physics B</em></li>
-        <li><a href="https://doi.org/10.1142/S021974992540009X" target="_blank">Two-Flavor Neutrino Oscillations in Matter and Quantum Entanglement</a> — <em>Int. Journal of Quantum Information</em></li>
-        <li><a href="https://arxiv.org/abs/2604.01256" target="_blank">Quantum Fisher Information as a Probe of Sterile Neutrino New Physics: Geometric Advantage of KM3NeT over IceCube</a></li>
-      </ul>
-    </div>
+  <div class="student-header">
+    <div class="student-name">Baktiar Wasir Farooq</div>
+    <span class="student-badge">3rd Year · Kirori Mal College</span>
+    <span class="student-badge scholarship-badge">UNISA Scholarship Recipient (Sole International Selection)</span>
+    <span class="student-badge incoming-badge">Accepted for M.Sc. in Physics · Università degli Studi di Salerno</span>
+  </div>
+  <ul class="student-works">
+    <li>Quantum Information Theoretical Approaches in Neutrino Oscillations <span class="work-type-badge">Dissertation</span></li>
+    <li><a href="https://inspirehep.net/literature/3115044" target="_blank">NeutrinoOsc3Flavor: CP Phase Dependence in Three-Flavor Neutrino Oscillations</a></li>
+    <li><a href="https://www.sciencedirect.com/science/article/pii/S0550321326000817" target="_blank">Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum Gravity Interactions</a> — <em>Nuclear Physics B</em></li>
+    <li><a href="https://doi.org/10.1142/S021974992540009X" target="_blank">Two-Flavor Neutrino Oscillations in Matter and Quantum Entanglement</a> — <em>Int. Journal of Quantum Information</em></li>
+    <li><a href="https://arxiv.org/abs/2604.01256" target="_blank">Quantum Fisher Information as a Probe of Sterile Neutrino New Physics: Geometric Advantage of KM3NeT over IceCube</a></li>
+  </ul>
+</div>
 
     <div class="student-card">
       <div class="student-header">
@@ -707,15 +709,16 @@
     </div>
 
     <div class="student-card">
-      <div class="student-header">
-        <div class="student-name">Tia Pandit</div>
-        <span class="student-badge">4th Year · Kirori Mal College</span>
-      </div>
-      <ul class="student-works">
-        <li>Neutrino Oscillation Experiments: A Comprehensive Review of Theory, Observations and Future Directions <span class="work-type-badge">Dissertation</span></li>
-        <li><a href="https://journals.aps.org/prd/accepted/10.1103/8r1c-knd2" target="_blank">Earth-density effects in long baseline neutrino experiments</a> — <em>Physical Review D</em> (Accepted)</li>
-      </ul>
-    </div>
+  <div class="student-header">
+    <div class="student-name">Tia Pandit</div>
+    <span class="student-badge">4th Year · Kirori Mal College</span>
+    <span class="student-badge incoming-badge">Incoming Master's Student · LMU, Germany</span>
+  </div>
+  <ul class="student-works">
+    <li>Neutrino Oscillation Experiments: A Comprehensive Review of Theory, Observations and Future Directions <span class="work-type-badge">Dissertation</span></li>
+    <li><a href="https://aps.org" target="_blank">Earth-density effects in long baseline neutrino experiments</a> — <em>Physical Review D</em> (Published)</li>
+  </ul>
+</div>
 
     <div class="student-card">
       <div class="student-header">
