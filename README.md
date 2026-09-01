@@ -701,7 +701,7 @@
     <div class="student-card">
       <div class="student-header">
         <div class="student-name">Ansh Kumariya</div>
-        <span class="student-badge">4th Year (Graduated) · Kirori Mal College</span>
+        <span class="student-badge">4th Year (Graduated) · Kirori Mal College · Master's Student at IIT Jhodpur</span>
       </div>
       <ul class="student-works">
         <li>Day-Night Effects in Solar Neutrino Oscillations: A Comprehensive Review <span class="work-type-badge">Dissertation</span></li>
@@ -767,6 +767,16 @@
       </div>
       <ul class="student-works">
         <li>Three-Flavor Neutrino Mixing by Perturbation Approach <span class="work-type-badge">Course Internship</span></li>
+      </ul>
+    </div>
+
+    <div class="student-card">
+      <div class="student-header">
+        <div class="student-name">Aditya Pant</div>
+        <span class="student-badge">2nd Year · Kirori Mal College </span>
+      </div>
+      <ul class="student-works">
+        <li>Tomography in Neutrino Oscillations : Computational Study</li>
       </ul>
     </div>
 
