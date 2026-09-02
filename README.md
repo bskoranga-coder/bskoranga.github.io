@@ -530,7 +530,7 @@
   </nav>
 
   <div class="opportunity-banner">
-    <p>I welcome motivated students interested in research and seeking internships in <strong>High Energy Physics</strong> or <strong>Neutrino Physics</strong>. Students with strong curiosity and commitment to theoretical or phenomenological work are encouraged to get in touch.</p>
+    <p>I welcome motivated students interested in research and seeking internships in <strong>High Energy Physics</strong> or <strong>Neutrino Physics</strong> within our Neutrino Physics Group at Kirori Mal College. Students with strong curiosity and commitment to theoretical or phenomenological work are encouraged to get in touch.</p>
     <a href="mailto:bskoranga@kmc.du.ac.in" class="email-link">📧 bskoranga@kmc.du.ac.in</a>
   </div>
 
@@ -680,7 +680,7 @@
   <section id="students">
     <div class="section-label">Mentorship</div>
     <h2>Current Research Students</h2>
-    <p class="students-intro">The following students are currently working under the supervision of Prof. Bipin Singh Koranga.</p>
+    <p class="students-intro">The following students are currently working/worked under the supervision of Prof. Bipin Singh Koranga with the Neutrino Physics Group at KMC.</p>
 
     <div class="student-card">
   <div class="student-header">
