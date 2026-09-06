@@ -688,7 +688,7 @@
     <span class="student-badge">4th Year (UG Research Assistant) · Kirori Mal College· UNISA Scholarship Recipient (Sole International Selection) · Accepted for M.Sc. in Physics · Università degli Studi di Salerno </span>
   </div>
   <ul class="student-works">
-    <li><a href="https://arxiv.org/abs/2609.02975="_blank">Probing Quantum Foundations in Long-Baseline Neutrino Oscillations: Wave Packet Approach from MINOS Data to DUNE Predictions</a></li>
+    <li><a href="https://arxiv.org/abs/2609.02975" target="_blank">Probing Quantum Foundations in Long-Baseline Neutrino Oscillations: Wave Packet Approach from MINOS Data to DUNE Predictions</a></li>
     <li><a href="https://inspirehep.net/literature/3115044" target="_blank">NeutrinoOsc3Flavor: CP Phase Dependence in Three-Flavor Neutrino Oscillations</a></li>
     <li><a href="https://www.sciencedirect.com/science/article/pii/S0550321326000817" target="_blank">Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum Gravity Interactions</a> — <em>Nuclear Physics B</em></li>
     <li><a href="https://doi.org/10.1142/S021974992540009X" target="_blank">Two-Flavor Neutrino Oscillations in Matter and Quantum Entanglement</a> — <em>Int. Journal of Quantum Information</em></li>
