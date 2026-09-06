@@ -680,17 +680,17 @@
   <section id="students">
     <div class="section-label">Mentorship</div>
     <h2>Current Research Students</h2>
-    <p class="students-intro">The following students are currently working/worked under the supervision of Prof. Bipin Singh Koranga with the Neutrino Physics Group at KMC.</p>
+    <p class="students-intro">The following students are currently working under the supervision of Prof. Bipin Singh Koranga within the Neutrino Physics Group at KMC.</p>
 
     <div class="student-card">
   <div class="student-header">
     <div class="student-name">Baktiar Wasir Farooq</div>
-    <span class="student-badge">3rd Year (Graduated) · Kirori Mal College</span>
+    <span class="student-badge">4th Year (UG Research Assistant) · Kirori Mal College</span>
     <span class="student-badge scholarship-badge">UNISA Scholarship Recipient (Sole International Selection)</span>
     <span class="student-badge incoming-badge">Accepted for M.Sc. in Physics · Università degli Studi di Salerno</span>
   </div>
   <ul class="student-works">
-    <li>Quantum Information Theoretical Approaches in Neutrino Oscillations <span class="work-type-badge">Dissertation</span></li>
+    <li><a href="https://arxiv.org/abs/2609.02975="_blank">Probing Quantum Foundations in Long-Baseline Neutrino Oscillations: Wave Packet Approach from MINOS Data to DUNE Predictions</a></li>
     <li><a href="https://inspirehep.net/literature/3115044" target="_blank">NeutrinoOsc3Flavor: CP Phase Dependence in Three-Flavor Neutrino Oscillations</a></li>
     <li><a href="https://www.sciencedirect.com/science/article/pii/S0550321326000817" target="_blank">Modified Entanglement Patterns in Two-Flavor Neutrinos from Quantum Gravity Interactions</a> — <em>Nuclear Physics B</em></li>
     <li><a href="https://doi.org/10.1142/S021974992540009X" target="_blank">Two-Flavor Neutrino Oscillations in Matter and Quantum Entanglement</a> — <em>Int. Journal of Quantum Information</em></li>
@@ -698,6 +698,64 @@
   </ul>
 </div>
 
+<div class="student-card">
+      <div class="student-header">
+        <div class="student-name">Aditya Pant</div>
+        <span class="student-badge">2nd Year (Internship) · Kirori Mal College </span>
+      </div>
+      <ul class="student-works">
+        <li>Day Night Asymmetry in Neutrino Oscillations</li>
+        <li>Matter-Induced CPT Violation and Earth-Density Stratification Effects in Long-Baseline Neutrino Oscillation Experiments</li>
+      </ul>
+    </div>
+
+  <div class="student-card">
+      <div class="student-header">
+        <div class="student-name">Ansh Prasad</div>
+        <span class="student-badge">3rd Year (Internship) · Kirori Mal College </span>
+      </div>
+      <ul class="student-works">
+        <li>Neutrino Physics and Gravitational Red-shift</li>
+      </ul>
+    </div>
+
+    <div class="student-card">
+      <div class="student-header">
+        <div class="student-name">Ajay Rawat</div>
+        <span class="student-badge">4th Year - Dissertation · Kirori Mal College </span>
+      </div>
+      <ul class="student-works">
+        <li>Day Night Asymmetry in Neutrino Oscillations</li>
+      </ul>
+    </div>
+
+    <div class="student-card">
+      <div class="student-header">
+        <div class="student-name">Anurag Sharma</div>
+        <span class="student-badge">4th Year - Dissertation · Kirori Mal College </span>
+      </div>
+      <ul class="student-works">
+        <li> Two vs Three Flavor Neutrino Oscillation analysis via Quantum Correlations</li>
+      </ul>
+    </div>
+
+
+
+
+<h2>Past Research Students</h2>
+    <p class="students-intro">The following students are worked under the supervision of Prof. Bipin Singh Koranga .</p>
+
+     <div class="student-card">
+  <div class="student-header">
+    <div class="student-name">Tia Pandit</div>
+    <span class="student-badge">4th Year (Graduated) · Kirori Mal College · Incoming Master's Student · Ludwig Maximilian University of Munich, Germany </span>
+  </div>
+  <ul class="student-works">
+    <li>Neutrino Oscillation Experiments: A Comprehensive Review of Theory, Observations and Future Directions <span class="work-type-badge">Dissertation</span></li>
+    <li><a href="https://journals.aps.org/prd/abstract/10.1103/8r1c-knd2" target="_blank">Earth-density effects in long baseline neutrino experiments</a> — <em>Physical Review D</em> (Published)</li>
+  </ul>
+</div>
+    
     <div class="student-card">
       <div class="student-header">
         <div class="student-name">Ansh Kumariya</div>
@@ -708,16 +766,6 @@
       </ul>
     </div>
 
-    <div class="student-card">
-  <div class="student-header">
-    <div class="student-name">Tia Pandit</div>
-    <span class="student-badge">4th Year (Graduated) · Kirori Mal College · Incoming Master's Student · Ludwig Maximilian University of Munich, Germany </span>
-  </div>
-  <ul class="student-works">
-    <li>Neutrino Oscillation Experiments: A Comprehensive Review of Theory, Observations and Future Directions <span class="work-type-badge">Dissertation</span></li>
-    <li><a href="https://journals.aps.org/prd/abstract/10.1103/8r1c-knd2" target="_blank">Earth-density effects in long baseline neutrino experiments</a> — <em>Physical Review D</em> (Published)</li>
-  </ul>
-</div>
 
     <div class="student-card">
       <div class="student-header">
@@ -770,16 +818,7 @@
       </ul>
     </div>
 
-    <div class="student-card">
-      <div class="student-header">
-        <div class="student-name">Aditya Pant</div>
-        <span class="student-badge">2nd Year · Kirori Mal College </span>
-      </div>
-      <ul class="student-works">
-        <li>Tomography in Neutrino Oscillations : Computational Study</li>
-      </ul>
-    </div>
-
+    
   </section>
 
   <footer>
