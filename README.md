@@ -685,9 +685,7 @@
     <div class="student-card">
   <div class="student-header">
     <div class="student-name">Baktiar Wasir Farooq</div>
-    <span class="student-badge">4th Year (UG Research Assistant) · Kirori Mal College</span>
-    <span class="student-badge scholarship-badge">UNISA Scholarship Recipient (Sole International Selection)</span>
-    <span class="student-badge incoming-badge">Accepted for M.Sc. in Physics · Università degli Studi di Salerno</span>
+    <span class="student-badge">4th Year (UG Research Assistant) · Kirori Mal College· UNISA Scholarship Recipient (Sole International Selection) · Accepted for M.Sc. in Physics · Università degli Studi di Salerno </span>
   </div>
   <ul class="student-works">
     <li><a href="https://arxiv.org/abs/2609.02975="_blank">Probing Quantum Foundations in Long-Baseline Neutrino Oscillations: Wave Packet Approach from MINOS Data to DUNE Predictions</a></li>
@@ -697,6 +695,26 @@
     <li><a href="https://arxiv.org/abs/2604.01256" target="_blank">Quantum Fisher Information as a Probe of Sterile Neutrino New Physics: Geometric Advantage of KM3NeT over IceCube</a></li>
   </ul>
 </div>
+
+<div class="student-card">
+      <div class="student-header">
+        <div class="student-name">Ajay Rawat</div>
+        <span class="student-badge">4th Year - Dissertation · Kirori Mal College </span>
+      </div>
+      <ul class="student-works">
+        <li>Day Night Asymmetry in Neutrino Oscillations</li>
+      </ul>
+    </div>
+
+    <div class="student-card">
+      <div class="student-header">
+        <div class="student-name">Anurag Sharma</div>
+        <span class="student-badge">4th Year - Dissertation · Kirori Mal College </span>
+      </div>
+      <ul class="student-works">
+        <li> Two vs Three Flavor Neutrino Oscillation analysis via Quantum Correlations</li>
+      </ul>
+    </div>
 
 <div class="student-card">
       <div class="student-header">
@@ -719,31 +737,13 @@
       </ul>
     </div>
 
-    <div class="student-card">
-      <div class="student-header">
-        <div class="student-name">Ajay Rawat</div>
-        <span class="student-badge">4th Year - Dissertation · Kirori Mal College </span>
-      </div>
-      <ul class="student-works">
-        <li>Day Night Asymmetry in Neutrino Oscillations</li>
-      </ul>
-    </div>
-
-    <div class="student-card">
-      <div class="student-header">
-        <div class="student-name">Anurag Sharma</div>
-        <span class="student-badge">4th Year - Dissertation · Kirori Mal College </span>
-      </div>
-      <ul class="student-works">
-        <li> Two vs Three Flavor Neutrino Oscillation analysis via Quantum Correlations</li>
-      </ul>
-    </div>
+    
 
 
 
 
 <h2>Past Research Students</h2>
-    <p class="students-intro">The following students are worked under the supervision of Prof. Bipin Singh Koranga .</p>
+    <p class="students-intro">The following students have worked under the supervision of Prof. Bipin Singh Koranga .</p>
 
      <div class="student-card">
   <div class="student-header">
